@@ -1,0 +1,7 @@
+name: PreventPearl
+main: de.oryfox.PreventPearl
+version: 1
+commands:
+  togglePearl:
+    usage: /togglePearl
+    description: Enables or disable ender pearl drops on Endermen
