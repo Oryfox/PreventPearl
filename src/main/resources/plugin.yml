@@ -1,6 +1,7 @@
 name: PreventPearl
 main: de.oryfox.PreventPearl
 version: 1
+api-version: 1.19
 commands:
   togglePearl:
     usage: /togglePearl
